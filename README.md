@@ -70,7 +70,8 @@ Use the search option to look for an auxiliary module to scan and enumerate the 
 use the auxiliary/scanner/mysql/mysql_version module by typing the module name or associated number to scan MySQL version details. use 11 Or: use auxiliary/scanner/mysql/mysql_version ![273783999-e3adae25-a5cb-4ee1-b44b-cd1320f37d5d](https://github.com/Bakkiyalakshmi29/Metasploit-for-reconnaissance/assets/119406233/5f083dec-2633-4bc6-bf0b-11348372468e)
 
 
-Use the set rhosts command to set the parameter and run the module, as follows: https://user-images.githubusercontent.com/119417735/273784257-0d3354a4-6104-43a8-865a-b0fd519325dd.png![273784475-ec2fd0ef-e4f3-45e3-a85f-677c436a9ce3](https://github.com/Bakkiyalakshmi29/Metasploit-for-reconnaissance/assets/119406233/e81ad63e-4e1a-4191-bc91-29a684d928f9)
+Use the set rhosts command to set the parameter and run the module, as follows: https://user-images.githubusercontent.com/119417735/273784257-0d3354a4-6104-43a8-865a-b0fd519325dd.png! ![273784257-0d3354a4-6104-43a8-865a-b0fd519325dd](https://github.com/Bakkiyalakshmi29/Metasploit-for-reconnaissance/assets/119406233/7ee58f3a-8043-4bca-8703-dc2bc518b7d2)
+
 
 
 After scanning, you can also brute force MySQL root account via Metasploit's auxiliary(scanner/mysql/mysql_login) module. ![273784475-ec2fd0ef-e4f3-45e3-a85f-677c436a9ce3](https://github.com/Bakkiyalakshmi29/Metasploit-for-reconnaissance/assets/119406233/fa9d3b6a-0d46-450d-9f5f-84d246a02734)
